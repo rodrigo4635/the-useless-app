@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_curiosities"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="@string/title_curiosities" />
+
+    <item
+        android:id="@+id/navigation_imc"
+        android:icon="@drawable/ic_calendar_black_24dp"
+        android:title="@string/title_imc" />
+
+    <item
+        android:id="@+id/navigation_day_off"
+        android:icon="@drawable/ic_calculate_black_24dp"
+        android:title="@string/title_day_off" />
+
+</menu>

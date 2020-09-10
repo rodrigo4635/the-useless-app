@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Useless App</string>
+    <string name="title_curiosities">Curiosidade</string>
+    <string name="title_imc">IMC</string>
+    <string name="title_day_off">Folga</string>
+    <string name="imc_weight_input_label">Digite seu peso (Ex 74.3)</string>
+    <string name="imc_height_input_label">Digite sua altura (Ex 1.83)</string>
+    <string name="calculate_imc_button">Calcular com resposta sincera</string>
+    <string name="imc_result_label">Seu IMC:</string>
+    <string name="curiosities_button">Gerar curiosidade inútil</string>
+</resources>
+
